@@ -24,7 +24,3 @@ How to Get Started:
 ```
     node app.js
 ```
-***# node-api-engine
-# node-api-podcast
-# node-api-podcast
-# complete-node-pod
