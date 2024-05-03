@@ -46,5 +46,4 @@ app.listen(PORT, () => {
    console.log(`Podcast server is listening on port ${PORT}`);
    //go to localhost 
    console.log(`http://localhost:${PORT}/`);
-
 });
